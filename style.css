@@ -1,7 +1,7 @@
 .container{
     height: flex;
      /* padding: 50px;  */
-     box-shadow: 20px 10px 20px rgb(161, 79, 79);
+     /* box-shadow: 20px 10px 20px rgb(161, 79, 79); */
     justify-content: center;
     display: flex;
     flex-direction: row;
