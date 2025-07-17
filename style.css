@@ -1,0 +1,20 @@
+.container{
+    height: flex;
+    /* padding: 50px; *
+    /* background-color: blue; */
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 5px, black solid;
+
+}
+img{
+    padding: 20px;
+    background-color: blue;
+    margin:105px;
+}
+img:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
