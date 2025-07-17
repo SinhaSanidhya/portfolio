@@ -1,18 +1,19 @@
 .container{
     height: flex;
-    /* padding: 50px; *
-    /* background-color: blue; */
+     /* padding: 50px;  */
+     box-shadow: 20px 10px 20px rgb(161, 79, 79);
     justify-content: center;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
-    border: 5px, black solid;
-
+    
 }
 img{
+    border: 5px, black solid;
     padding: 20px;
     background-color: blue;
     margin:105px;
+    box-shadow: 10px 20px 20px grey;
 }
 img:hover {
   background-color: yellow;
